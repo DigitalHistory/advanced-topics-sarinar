@@ -1,21 +1,6 @@
-# This Map Should Deal with a Historical Topic You Care About
+# Controversies in Canadian Mining Projects in Guatemala  _by Sarina Rihal_
 
-Your first task will be to locate some real places.  You can get the precise locations at various services, e.g [latlong.net](http://www.latlong.net/).
-
-Then add those places to the marker array in [../js/maps-setup.js](../js/maps-setup.js) (see instructions there).
-
-replace this text and the text with your essay. But be sure not to eliminate the html elements that
-are contained inside this textarea, or [your map won't work at all!][1] [1](#one)
-<figure>
-![](https://upload.wikimedia.org/wikipedia/commons/a/ab/Lolcat_in_folder.jpg "this is the alt text")<figcaption>caption</figcaption>
-</figure>
-It makes sense to put an introductory paragraph here, above the map and buttons. To change the bootswatch thenme, change "united" to one of the other theme names listed at [strapdownjs.com](http://strapdownjs.com/).
-
-[1]: http://hello.com
-[^1]: This is my first footnote
-
-<a id="#one">1: </a> some text here
-
+With mining being one of Canada's lucrative and attractive industries, there have been a number of controversies and historical hiccups that have shaken the corporations that have expanded globally, most specifically in terms of infringement on land and human rights on Guatemalan Indigenous groups. This paper will look at how Canada has risen to such heights in the mining industry, how Guatemala's history paved the path for these injustices, and how these factors came together to create conflict in Guatemala, using five unique locations to investigate the historical issue. I will look broadly at **Guatemala City**, which is home to major banks, in order to understand the economic and political build up that led to some of the controversies involving Indigenous peoples. The paper will then look specifically at _Goldcorp_, a Canadian corporation that faced legal trouble in the wake of some human rights violations in **San Miguel** and **Sipacapa** regions. It will also look at _Hudbay Minerals_ and the Fenix Nickel project that faced conflict in **El Estor**, which shifted some some peoples to **Las Nubes**. Each of these locations hold significance in explaining the conflicts and issues that have arisen in Guatemala on part of its own government as well as money-hungry corporations.  
 
 <div class="markers">
   <!-- these buttons hide/show all the markers  -->
@@ -30,10 +15,12 @@ It makes sense to put an introductory paragraph here, above the map and buttons.
   <div id="map_legend"></div>
 </div>
 
-# Next Section
+# Guatemala, Canada, and Indigenous Peoples
 
-The rest of your essay should go under the map, probably.
+ Post-colonial Guatemala faced a huge amount of violence and chaos following the emergence of its mining sector. Much of this violence was targeted towards the country's Indigenous population-a conflict spanning 36 years to finally end in 1996 with the Peace Accords [Fox, p. 152](https://doi.org/10.1080/23251042.2015.1046204). Guatemala was simply a product of rapid globalization that did not account for its Indigenous population who would inevitably be uprooted and pushed from their homes into the mountain in a corporate quest for gold and other minerals. As the issue of the rising industry became increasingly politicized, blood shed ensued. The greatest problem that Guatemalans faced was the fact that siding with mining companies was the military government. In 1969, the _University of San Carlos_ produced a report calling upon the government to acknowledge that it was pawning its own natural resource wealth, to which the military responded in assassination attempts of members of the commission, killing two law professors in **Guatemala City** [Fox, p. 157](https://doi.org/10.1080/23251042.2015.1046204).
 
-## in sections like this
-also _italics_ and __bold__ which can also be written *like this* or **like this**
-etc. Be sure to [make use of links](http://digital.hackinghistory.ca) -- that's one of the reasons we write on the Web, and I've asked you to use links for all yor footnotes/references as well.  
+ In 2016, mining made up almost $60 billion of Canada's Gross Domestic Product, indicating a clear reliance of the economy on this highly lucrative sector [The Mining Association of Canada, 2017](http://mining.ca/resources/mining-facts). But Canada's success in the industry has not gone without blemish. _Goldcorp Inc._, a Vancouver-based gold company began its project in 2005 in the regions of **San Miguel Ixtahuacan** and **Sipacapa**, and established 147 kilometers of underground tunnels, generating $447 million in revenue from 2013 figures [Woodin, 2015]( https://biv.com/article/2015/05/goldcorps-marlin-mine-decade-operations-and-contro). Despite the _1996 Peace Agreements_ having established rights to traditional land and natural resources, the Indigenous peoples did not receive this acknowledgement from _Goldcorp_. It was found through a Human Rights Impact Assessment that _Goldcorp_ had not actually forgone proper consultation with the people in the **San Miguel** and **Sipacapa** regions and went on to explore and exploit these lands for resources [Woodin, 2015]( https://biv.com/article/2015/05/goldcorps-marlin-mine-decade-operations-and-contro). Implied in these violations were a number of greater, larger-scaled violations on part of banks and international institutions who did not take proper measures to protect these Indigenous peoples [Hill, 2014]( https://www.theguardian.com/environment/andes-to-the-amazon/2014/aug/12/guatemala-gold-mine-protester-beaten-burnt-alive).
+
+ _Hudbay Minerals_, another controversial Canadian mining company, was responsible for human rights violations as a result of contracted security raping and shooting Indigenous peoples at a _Hudbay_ mining site near **El Estor, Guatemala**. _Hudbay_ oversees the _Fenix Nickel Project_ and claims to be actively involved with Indigenous communities and the government as to ensure benefits to every stakeholder [Brubacher, 2016]( http://www.hudbayminerals.com/English/Media-Centre/Media-Statements/El-Estor-Guatemala/default.aspx). The _Hudbay_ media statements claim that their security personnel "acted with restraint" and that the death of Adolfo Ich Chaman, a gold mine protestor native to the area, was not the fault of the security [Brubacher, 2016]( http://www.hudbayminerals.com/English/Media-Centre/Media-Statements/El-Estor-Guatemala/default.aspx). The security guard who was tried for killing an indigenous activist and leaving one activist paralyzed was acquitted [Perkel, 2017]( https://www.ctvnews.ca/business/ex-hudbay-minerals-security-guard-to-be-retried-for-murder-in-guatemala-1.3591759).  In addition to this tragedy, _Hudbay_ also argues that they are in compliance with local communities and that in 2007, when a group of illegal squatters arrived on project lands to defend it, their removal and transfer to the nearby village of **Las Nubes** was peaceful, and that an offer of village improvements followed [Brubacher, 2016]( http://www.hudbayminerals.com/English/Media-Centre/Media-Statements/El-Estor-Guatemala/default.aspx). Whether these corporations are apologists for human rights violations is to be seen, and must be acknowledged by domestic and international courts.
+
+ While it remains clear that these increasingly profitable mining companies have no intent to slow their projects, it can be hoped for that the repeated infringements on Indigenous lands and rights in the various regions of Guatemala can present itself as an opportunity for the Canadian and Guatemalan governments to take action. These regions of interest all play important roles as reminders of the injustices through history on part of mining companies against Indigenous peoples of Guatemala.
