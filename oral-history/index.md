@@ -1,33 +1,23 @@
-# Your Title should go in the appropriate place in `index.html`, not here! Title is itself set only in the `<head>` element
-
-## Use headings only if you want to have subsections in your essay
-
 <div class="sidepanel">
               <!-- This is the div where all the popcorn action will hapen -->
               <div id="popcorn-container">
               </div>
             </div>
 
+The Japanese attack on Pearl Harbor on December 7, 1941 was a shock to the American public for a number of reasons, and led the now patriotically unified nation into the war to retaliate and protect their national interests. The significance of public reaction in this event is that it plays an important role in how America conducted itself following the war. Public opinion is often the largest determinant in military action, especially in the case of World War II where America had not yet entered the war. Most Americans were against the war prior to the attack on American soil, but the attacks elicited an almost unanimous decision across the American public and the government[^first]. We will investigate the reactions of the government, the role of women, and the responsibility of the public following the attack and see how this moment in history shaped a general sentiment across the country.
+<br>The day after the attacks, the US Congress was in almost entire agreement that war was the only option, with only one representative in opposition [^second]. Congressional representative Jeannette Rankin of Montana who was a pacifist opposed the war with great reason, stating: "As a woman, I can't go to war, and I refuse to send anyone else."[^third]. Though the oponion of Rankin was not an overarching belief across all American women. In the audio clip of the interview, some American women are interviewed and demonstrate a strong patriotism, with one female interviewee declaring: <a href="#" onclick="javascript:seek(90)">"I hope we beat the hell out of them!"</a> Women in fact went to work in increasing their roles, shifting from passive characters of the early 20th century to entering more industrialized work. They went to work in factories ensuring that industries that depended heavily on men would not suffer as a result of the 1.8 million American men who would enter the war by 1941[^fourth].
+<br>Men were profoundly eager about the war as a result of the newly heightened patriotism following the Pearl Harbor attacked. The <a href="#" onclick="javascript:seek(70)">male interviewees</a> express a great deal of excitement for the draft, demonstrating a strong motivation to defeat the Japanese aggressors who had posed a new threat. This was a result of the great loss experienced during the attack, with hundreds of Japanese fighter planes destroying or damaging American naval equipment including 3 battleships and 300 planes as well as killing of 2400 Americans and injuring 1000 more[^fifth]. This was not an attack to be taken lightly and entry into war was hardly a matter that needed to be discussed or questioned, but more so a decision that was expected by the entire country, and the entire world.
+<br>It was true that the spread of the news of the attack on Pearl Harbor shifted the opinions of the entire country. The media played a huge role in promoting US entry into the war, and was indeed a powerful agent for propaganda in this moment[^sixth]. Japan was now a major threat, a fact that could not and would not be denied by the public, who for the most part, had previously been against the idea of war. One interviewee cites <a href="#" onclick="javascript:seek(115)">this change in public opinion.</a> Thus, the media was able to shift public opinion and cultivate an anger towards the Japanese and its allies including <a href="#" onclick="javascript:seek(157)">Germany and Italy</a> due to the fact that "patriotism was at a fever pitch"[^seventh].
+<br>Given these factors, the opinion of the American public played an important role in how the country would navigate the rest of the war. Though the US government had no strife in declaring war following the attacks, it would be integral for the public, especially those men that would be enlisted in the war to be in support of it. Such a personal attack on the nation would surely elicit a unifying response that would set a precedent for not only this attack but more threats to American soil to come including the Cuban Missile Crisis and the September 11 attacks. Public opinion is a determining factor in high stakes foreign policy and this was exemplified following the attacks on Pearl Harbor in 1941.
 
+Photos from [Daily Mail](http://www.dailymail.co.uk/news/article-2072382/Pearl-Harbor-attack-1941-pictures-Americas-response-days-followed.html).
 
-Add your content here, including _markup_ of **various kinds**. Now you can just write! But you should be aware of a couple of advanced features of markdown:
-- you can embed HTML directly n a markdown file. This is great if you want to add complex attributes like **classes**, e.g. to your `img` tags so that they display properly.
-  - another use of embedded HTML is for funky javascript function links. I've written a simple function that will seek to a particular time code in seconds.  You can call it like this: `<a href="javascript:seek(75)">seek to 1:15</a>`, but `[seek to 1:15](javascript:seek(75))` won't render properly, so you have to type the whole linke in, as seen here: <a href="#" onclick="javascript:seek(75)"> seek to 1:15</a>.
-  - also, Remarkable supports pandoc-style footnotes, which can be helpful sometimes. Here are some examples of footnotes at work:
+Audio Clip from [Story Corps](http://www.dailymail.co.uk/news/article-2072382/Pearl-Harbor-attack-1941-pictures-Americas-response-days-followed.html)
 
-    Footnote 1 link[^first].
-
-    Footnote 2 link[^second].
-
-    Inline footnote^[Text of inline footnote] definition.
-
-    Duplicated footnote reference[^second].
-
-you can learn more about remarkable on [its github page](https://github.com/jonschlinkert/remarkable), and get a fuller sense of the syntax [in the online demo](https://jonschlinkert.github.io/remarkable/demo/)
-
-
-[^first]: Footnote **can have markup**
-
-    and multiple paragraphs.
-
-[^second]: Footnote text.
+[^first]: Mark Loproto,"Uniting the States: America's Reaction to Pearl Harbor," Pearl Harbor Visitors Bureau, March 30, 2017, accessed April 5, 2018, https://visitpearlharbor.org/uniting-states-reaction-to-pearl-harbor/.  
+[^second]: Mark Loproto,"Uniting the States: America's Reaction to Pearl Harbor," Pearl Harbor Visitors Bureau, March 30, 2017, accessed April 5, 2018, https://visitpearlharbor.org/uniting-states-reaction-to-pearl-harbor/.  
+[^third]: "Pearl Harbor," History.com, 2009, accessed April 5, 2018, https://www.history.com/topics/world-war-ii/pearl-harbor.
+[^fourth]: Mark Loproto,"Uniting the States: America's Reaction to Pearl Harbor," Pearl Harbor Visitors Bureau, March 30, 2017, accessed April 5, 2018, https://visitpearlharbor.org/uniting-states-reaction-to-pearl-harbor/.  
+[^fifth]: "Pearl Harbor," History.com, 2009, accessed April 5, 2018, https://www.history.com/topics/world-war-ii/pearl-harbor.
+[^sixth]: Andrew Lynch, "Pearl Harbor: Some Press Reaction," Japanese Studies 11, no. 1 (1991): 56, accessed April 5, 2018, http://resolver.scholarsportal.info.myaccess.library.utoronto.ca/resolve/10371397/v11i0001/54_phspr.xml.
+[^seventh]: Andrew Lynch, "Pearl Harbor: Some Press Reaction," Japanese Studies 11, no. 1 (1991): 58, accessed April 5, 2018, http://resolver.scholarsportal.info.myaccess.library.utoronto.ca/resolve/10371397/v11i0001/54_phspr.xml.
